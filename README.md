@@ -15,8 +15,8 @@ A Python tool to process PDF documents into structured JSON format suitable for 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd pdf-to-chatbot-processor
+git clone https://github.com/Uththunga/PDF2JSON.git
+cd PDF2JSON
 ```
 
 2. Install required packages:
@@ -53,7 +53,7 @@ The processed files are saved as JSON with the following structure:
 ## Project Structure
 
 ```
-pdf-to-chatbot-processor/
+PDF2JSON/
 ├── PDF/                    # Place PDF files here
 ├── output/                 # Processed JSON files
 ├── pdf_processor.py        # Main processing script
