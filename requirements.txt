@@ -1,0 +1,3 @@
+pdfminer.six==20221105
+fpdf2==2.7.6
+nltk==3.8.1
